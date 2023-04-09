@@ -1,4 +1,7 @@
-'Poing' only store the following data on your device:
+PRIVACY POLICY
+--------------
+
+'Poing' only stores the following data on your device:
 * Your high score
 * Your unlocked characters data
 
